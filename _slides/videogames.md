@@ -14,4 +14,5 @@ slides:
   - math-blaster
   - minecraft-end-user
   - kinect
+  - psp-3000-Silver
 ---
